@@ -1,3 +1,3 @@
 # Used to test @Value in GreetingController
 my:
-  greeting: Hello World from 'spring-boot-microservices-config' microservice specific file on Configuration Server
+  greeting: Updated Hello World from 'spring-boot-microservices-config' microservice specific file on Configuration Server
