@@ -1,6 +1,6 @@
 # Used to test @Value in GreetingController
 my:
-  greeting: 'test' profile - Hello World from Configuration Server
+  greeting: test profile - Hello World from Configuration Server
 
 # Used to test @Value in GreetingController
 db:
