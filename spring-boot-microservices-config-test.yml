@@ -1,0 +1,6 @@
+# Remember that, if you have set a remote repository, to always also push the commits,
+# otherwise the configuration server will overwrite the local repo with its cache.
+
+# Used to test @Value in GreetingController
+my:
+  greeting: 'test' profile - Hello World from 'spring-boot-microservices-config' microservice specific file on Configuration Server

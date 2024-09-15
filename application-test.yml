@@ -1,0 +1,9 @@
+# Used to test @Value in GreetingController
+my:
+  greeting: 'test' profile - Hello World from Configuration Server
+
+# Used to test @Value in GreetingController
+db:
+  connection: "connection-string-here-from-config-server"
+  host: 127.0.0.1
+  port: 1500
